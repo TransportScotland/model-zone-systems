@@ -39,4 +39,4 @@ jobs:
         with:
           default_author: github_actions
           message: '${{ env.CURR_DATE }}: Update zone previews'
-          add: '["**/readme.md", "**/*.png"]'
+          add: '["**/README.md", "**/*.png"]'
